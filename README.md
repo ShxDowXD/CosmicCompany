@@ -115,8 +115,8 @@
     Mystery button
 </details>
 
- <details>
-<summerise>QOL Tweaks</summerise>
+<details>
+<summary>QOL Tweaks</summary>
 
     Fast Startup
     -
