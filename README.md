@@ -68,11 +68,23 @@
     Grey Apartments
     -
     Gothic Monastery
-
-
 </details>
-- An abundance of new scraps
-- New functional items including:
+
+<details>
+<summary>An abundance of new scraps</summary>
+
+    Immersive Scraps mod
+    -
+    Gold Scraps mod
+    -
+    Chillax Scraps mod
+    -
+    Generic Scraps mod
+    -
+    Usual Scraps mod
+</details>
+
+New functional items
 
      >- Polaroid Camera
      >- Elite Flashlight
