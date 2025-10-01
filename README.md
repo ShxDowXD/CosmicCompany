@@ -1,3 +1,4 @@
+![(https://github.com/ShxDowXD/CosmicCompany/blob/64d235116d8332d6a6b303320850893de0ce0cae/BepInEx/plugins/Emblem/CosmicCompany/Header/HeaderRed.png))](https://github.com/ShxDowXD/CosmicCompany/blob/64d235116d8332d6a6b303320850893de0ce0cae/BepInEx/plugins/Emblem/CosmicCompany/Header/HeaderRed.png)
 
 # Cosmic Company - The Ultimate Vanilla++ Modpack!
 
