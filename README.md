@@ -5,7 +5,8 @@
  
 >- #### Due to these unforeseeable circumstances, the company needs you and your co-workers to investigate these new conditions and report back on them as soon as possible!
 
-
+> [!NOTE]
+> This Description is currently in progress!
 
 
 ## Modpack Contents
@@ -84,18 +85,53 @@
     Usual Scraps mod
 </details>
 
-New functional items
+<details>
+<summary>New functional items</summary>
 
-     >- Polaroid Camera
-     >- Elite Flashlight
-     >- Wheelbarrow
-     >- Emergancy Dice
-     >- Uno Reverse Card
+     Polaroid Camera
+     -
+     Elite Flashlight
+     -
+     Wheelbarrow
+     -
+     Emergancy Dice
+     -
+     Uno Reverse Card
+</details>
 
-    
-- New monsters
-- QOL Tweaks
-- New Weather
+<details>
+<summary>New monsters</summary>
+
+    Freddy Bracken reskin
+    -
+    Rolling Giant
+    -
+    Zombies
+    -
+    Faceless Stalker
+    -
+    Mirage
+    -
+    Mystery button
+</details>
+
+ <details>
+<summerise>QOL Tweaks</summerise>
+
+    Fast Startup
+    -
+    Better pay check
+    -
+    Dynamic interior variety
+    -
+    Scrap re-balance
+    -
+    Wheelbarrow
+    -
+    More details coming soon
+ </details>
+  
+  - New Weather [Details coming soon]
 
 
 ## This description will have more soon! it's a work in progress and there is lots more content in the modpack that isn't yet listed here!
