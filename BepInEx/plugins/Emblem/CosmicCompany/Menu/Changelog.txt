@@ -1,31 +1,20 @@
 <size=10><align=left>Cosmic Company Modpack</align></size>
-<b><color=#00ff00><size=30><align=left>V1.1.4</align></size></color></b>
+<b><color=#00ff00><size=30><align=left>V1.1.7</align></size></color></b>
 <size=20><align=left>Changelog</align></size>
 
-<b><color=#00ff00><size=15>Fixes:</size></color><b>
-
-- Fixed all players' health not reducing after entering the "critical injury" state - causing everyone to become permanently invincible
-- POTENTIALLY Fixed the ever-lasting loading planet softlock bug - It was assumed to be "The Dam" interior.
-
-<b><color=#00ff00><size=15>Removals:</size></color></b>
-
-- Removed the Cursed Scraps mod
-    [Causing the invincibility bug]
-- Removed "The Dam" interior
-    [Possibly causing the loading softlock bug]
-- Removed Enemy and Scrap spawn rate scaling
-   [Caused the Barber enemy to spawn every day, and caused interior generation to be different for each player - de-syncing their games]
-
 <b><color=#00ff00><size=15>Additions:</size></color></b>
+- New Windows on the ship!
+[You can see into space or the moon you're landed on - you start with a roof and side window but more are purchasable from the shop]
+- The ability to climb fast on ladders
+[Will use some stamina]
 
-- Cause of death messages on day overview screen
-- Added "LobbyControl" mod - fixes some lobby issues and allows players to join when the ship is in orbit, even after the game has been started.
-    [Also adds options to switch the save file quickly while in game, toggle autosave and more]
-- Added a revamped EXP System
-    [Displaying info and stats about each player on the day overview screen - as well as lots of extra ranks past "Leader"]
-- Re-added Dynamic Interior Variety
-    [The longer you go without finding an interior, the more common it gets.]
+<b><color=#00ff00><size=15>Fixes:</size></color></b>
+- Stamina bar has been changed to be accurate
+[It used to run out way too early]
+- Multiple weathers not giving multipliers has been fixed
+[Note: when there is a ">" signal instead of a "+" if 2 weathers are displayed, it means there is a 50/50 chance for each weather to be selected, and have it's multipliers applied].
 
-- <b><color=#00ff00>Custom Menu theme for the modpack!</color></b>
-   [You can disable it if you don't like it by disabling the "Emblem" mod in your modlist]
- 
+<b><color=#00ff00><size=15>Changes:</size></color></b>
+- Loading screen messages have been changed to be more lore-friendly
+
+
