@@ -10,6 +10,8 @@
 > This Description is currently in progress!
 
 
+## [Thunderstore Link](https://thunderstore.io/c/lethal-company/p/ShxDowXD/CosmicCompany/)
+
 ## Modpack Contents
 
 > ### Click each line to show the details!
