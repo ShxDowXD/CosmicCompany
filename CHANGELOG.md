@@ -24,3 +24,21 @@
 
 ## Changes
     - Loading screen messages have been changed to be more lore-friendly
+
+  1.1.8 (3-10-2025)
+## Additions
+  - New suits are available to choose from! - Select one from the clothes rack on ship!
+      [Hazard, Green, Purple, Bunny]
+  - **Chat now fades away when it's not in use
+      [For cleaner HUD]
+  - Revamped HUD
+      [Much nicer looking  display and useful for immersion]
+  - Cleaner terminal UI**
+      [Now you can actually read the shop!]
+    
+## Fixes
+  - Fixed windows being out of sync
+  - Improved ship screens performance
+    
+## Changes
+  - Starting flashlights increased to 4
