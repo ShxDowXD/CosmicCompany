@@ -133,3 +133,8 @@
  </details>
   
   - New Weather [Details coming soon]
+
+
+## This description will have more soon! it's a work in progress and there is lots more content in the modpack that isn't yet listed here!
+
+       
