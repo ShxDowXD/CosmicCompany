@@ -1,20 +1,15 @@
 <size=10><align=left>Cosmic Company Modpack</align></size>
-<b><color=#00ff00><size=30><align=left>V1.1.8</align></size></color></b>
+<b><color=#00ff00><size=30><align=left>V1.1.9</align></size></color></b>
 <size=20><align=left>Changelog</align></size>
 
 <b><color=#00ff00><size=15>Additions:</size></color></b>
-- New suits are available to choose from! - Select one from the clothes rack on ship!
-    [Hazard, Green, Purple, Bunny]
-- Chat now fades away when it's not in use
-    [For cleaner HUD]
-- Revamped HUD
-    [Much nicer looking  display and useful for immersion]
-- Cleaner terminal UI
-    [Now you can actually read the shop!]
- 
+- The Country Road Creature
+   	[He's looking at you...]]
+
 <b><color=#00ff00><size=15>Fixes:</size></color></b>
-- Fixed windows being out of sync
-- Improved ship screens performance
- 
+- Performance Improvements
+
 <b><color=#00ff00><size=15>Changes:</size></color></b>
-- Starting flashlights increased to 4
+- Bug Fixes
+
+
