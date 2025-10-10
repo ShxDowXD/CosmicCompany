@@ -1,5 +1,28 @@
 # Changelog
 
+# 1.2.0 (10-10-2025)
+## Additions
+### - **Gold lights in the ship**
+  > [For a more immersive effect]
+### - **3 New nightmare themed moons**
+  > [Spoooky!]
+### - **100s of new enemy skin, colour and model variants**
+  > [Lots more variety for lots more fun!]
+### - **More blood splatters**
+  > [Yucky!]
+### - **Tiny chance for a meteor shower every day!**
+  > [Increases a small amount every day without a shower]
+### - **New "Soul Devourer" enemy**
+  > [A spooky scary skeleten that roams the night]
+
+## Changes
+
+### - **Enemies can now leave the facility!**
+  > [Don't worry, they each have their limits and restrictions so they aren't too overpowered]
+### - **Better item scanning**
+
+----------------------------------------------------
+
  # 1.1.9 (7-10-2025)
 ## Additions
     - The Country Road Creature

@@ -1,15 +1,29 @@
 <size=10><align=left>Cosmic Company Modpack</align></size>
-<b><color=#00ff00><size=30><align=left>V1.1.9</align></size></color></b>
+<b><color=#00ff00><size=30><align=left>V1.2.0</align></size></color></b>
 <size=20><align=left>Changelog</align></size>
 
 <b><color=#00ff00><size=15>Additions:</size></color></b>
-- The Country Road Creature
-   	[He's looking at you...]]
+- Gold lights in the ship
+> [For a more immersive effect]
 
-<b><color=#00ff00><size=15>Fixes:</size></color></b>
-- Performance Improvements
+- 3 New nightmare themed moons
+> [Spoooky!]
 
+- 100s of new enemy skin, colour and model variants
+> [Lots more variety for lots more fun!]
+
+- More blood splatters
+> [Yucky!]
+
+- Tiny chance for a meteor shower every day!
+> [Increases a small amount every day without a shower]
+
+- New "Soul Devourer" enemy
+> [A spooky scary skeleten that roams the night]
+ 
 <b><color=#00ff00><size=15>Changes:</size></color></b>
-- Bug Fixes
 
+- Enemies can now leave the facility!
+> [Don't worry, they each have their limits and restrictions so they aren't too overpowered]
 
+- Better item scanning
